@@ -1,40 +1,105 @@
-klarg:
-  pp: 9
-  loot: "15gp Jewelry 25gp"
-  desc: "Klarg - the goblin warlord"
-
-draenog:
-  pp: 12
-  loot: "14sp"
-  desc: "Draenog - a bugbear"
-
 a:
-  pp: 9
-  loot: "Jewelry 2gp"
-  desc: 1 goblin
-
-o:
-  pp: 9
-  loot: "Jewelry 10gp"
-  desc: 2 goblins, 2 archers, 1 bomber
+  pp: "10"
+  loot: "12sp"
+  desc: "Redbrand brute and 2 recruits"
 
 b:
-  pp: 13
-  loot: none
-  desc: Giant spider
+  pp: "10"
+  loot: "8sp"
+  desc: "2 Redbrands"
 
 c:
-  pp: 13
-  loot: none
-  desc: large spider
+  pp: "10"
+  loot: "30sp"
+  desc: "9 Redbrands"
 
-d:
-  pp: 13
-  loot: none
-  desc: ghoul
+clerks:
+  pp: "10"
+  loot: "none"
+  desc: "Ander and Thistle - young clerks"
 
-e:
-  pp: 9
-  loot: "11sp"
-  desc: 2 goblins, 2 goblin archers
+daran:
+  pp: "0"
+  loot: ""
+  desc: "Daran Edermath - silver haired half-elf"
+
+elmar:
+  pp: "0"
+  loot: ""
+  desc: "Elmar Barthen - trader"
+
+elsa:
+  pp: "10"
+  loot: "none"
+  desc: "Gossipy barmaid"
+
+farm_boy:
+  pp: "14"
+  loot: "none"
+  desc: "A slim blonde haired boy, Wes"
+
+garaele:
+  pp: "0"
+  loot: ""
+  desc: "Sister Garaele - zealous young elf"
+
+grista:
+  pp: "0"
+  loot: ""
+  desc: "Grista - surly female dwarf"
+
+halia:
+  pp: "0"
+  loot: ""
+  desc: "Halia Thornton - human woman"
+
+harbin:
+  pp: "0"
+  loot: ""
+  desc: "Harbin Wester - fat pompous old human male"
+
+linene:
+  pp: "0"
+  loot: ""
+  desc: "Linene Graywind - human woman 35"
+
+nela:
+  pp: "10"
+  loot: "none"
+  desc: "Nela Hillwater - old woman"
+
+olfred:
+  pp: "10"
+  loot: "none"
+  desc: "Olfred Koster - livery man"
+
+pipero:
+  pp: "11"
+  loot: "none"
+  desc: "Pipero, the undertaker"
+
+qelline:
+  pp: "0"
+  loot: ""
+  desc: "Qelline Alderleaf - female halfling 45"
+
+sildar:
+  pp: "13"
+  loot: "31sp"
+  desc: "Sildar Hallwinter - old man at arms"
+
+toblen:
+  pp: "0"
+  loot: ""
+  desc: "Toblen Stonehill - inn keeper"
+
+trilena:
+  pp: "10"
+  loot: ""
+  desc: "Innkeeper's wife"
+
+yara:
+  pp: "12"
+  loot: "none"
+  desc: "Yara, kidnapped noble"
 

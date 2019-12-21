@@ -1,32 +1,84 @@
-- mob: Klarg
-  area: 1
-  notes: "Commanding"
+- mob: a
+  area: 12
+  notes: "hassling an old man"
 
-- mob: Draenog
-  area: "4"
-  notes: "Bullying the goblins"
+- mob: b
+  area: 13
+  notes: "bullying Wes"
 
-- mob: A
-  area: 1
-  notes: "chatting"
+- mob: c
+  area: 9
+  notes: "drinking and eating chicken"
 
-- mob: O
-  area: 1
-  notes: "chatting"
+- mob: clerks
+  area: 3
+  notes: "help load and unload wagons"
 
-- mob: B
-  area: "2"
-  notes: "Hiding on the ceiling"
+- mob: daran
+  area: 4
+  notes: ""
 
-- mob: C
-  area: "2"
-  notes: "Still inside its egg"
+- mob: elmar
+  area: 3
+  notes: ""
 
-- mob: D
-  area: "2"
-  notes: Cocooned at C
+- mob: elsa
+  area: 2
+  notes: ""
 
-- mob: E
-  area: "4"
-  notes: "Chatting around fire, not alert"
+- mob: farm_boy
+  area: 13
+  notes: "mucking out"
+
+- mob: garaele
+  area: 8
+  notes: ""
+
+- mob: grista
+  area: 9
+  notes: ""
+
+- mob: halia
+  area: 6
+  notes: ""
+
+- mob: harbin
+  area: 10
+  notes: ""
+
+- mob: linene
+  area: 5
+  notes: ""
+
+- mob: nela
+  area: 12
+  notes: "not backing down"
+
+- mob: olfred
+  area: 13
+  notes: ""
+
+- mob: pipero
+  area: 11
+  notes: "mentally measuring up the coffins"
+
+- mob: qelline
+  area: 7
+  notes: ""
+
+- mob: sildar
+  area: 10
+  notes: ""
+
+- mob: toblen
+  area: 2
+  notes: ""
+
+- mob: trilena
+  area: 2
+  notes: ""
+
+- mob: yara
+  area: 13
+  notes: "working (and living) in the stables"
 
