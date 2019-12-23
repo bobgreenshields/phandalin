@@ -20,4 +20,4 @@ A couple of Redbrands keep their horses here.
 * taken offence at Wes' advice that hitting his horse will do no good
 * "No one tells me what to do with my horse"
 * "I hope you are ready for a beating son"
-* Yara looks on but says nothing
+* Yara looks on and asks any party members if they will let this happen
