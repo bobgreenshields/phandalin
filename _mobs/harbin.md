@@ -18,12 +18,13 @@ Fat pompous human male.
 * they want to take over our town
 * rightfully elected townmaster attacked and thrown in jail
 * who will be next?
-
-#### The Redbrands
-
-* not that bad
+* RBs were not against the townfolk
+* they may have been rough but did no real harm
 * a town needs an armed militia
-* who will protect us now
+* there are orcs at Wyvern Tor
+* who will protect us now?
+* will you!!!??
+
 
 #### Orc Trouble
 
