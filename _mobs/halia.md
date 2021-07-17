@@ -15,7 +15,7 @@ The guildmaster.  An ambitious and calculating human woman.
 #### After Tresendar
 
 * will congratulate the pcs on dealing with the RBs
-* and ask what became of Glasstaffs 
+* and ask what became of Glasstaff 
 * Phandalin has slowly been growing
 * before it benefited from being too small for anyone to care about it
 * Halia is worried that they soon will
